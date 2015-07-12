@@ -1,0 +1,17 @@
+E:\Projects\NoSQLServer\DBWriterService\obj\Release\NoSQLServer.DBWriterService.csprojResolveAssemblyReference.cache
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\DBWriterService.dll
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\DBWriterService.pdb
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\Adapters.dll
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\DomainObjects.dll
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\Messaging.dll
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\NoSQLServer.dll
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\Commands.dll
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\MCTWF.ValidationResult.dll
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\Adapters.pdb
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\DomainObjects.pdb
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\Messaging.pdb
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\NoSQLServer.pdb
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\Commands.pdb
+E:\Projects\NoSQLServer\DBWriterService\bin\Release\MCTWF.ValidationResult.pdb
+E:\Projects\NoSQLServer\DBWriterService\obj\Release\DBWriterService.dll
+E:\Projects\NoSQLServer\DBWriterService\obj\Release\DBWriterService.pdb

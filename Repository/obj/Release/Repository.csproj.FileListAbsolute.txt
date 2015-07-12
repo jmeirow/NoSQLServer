@@ -1,0 +1,9 @@
+E:\Projects\NoSQLServer\Repository\bin\Release\Repository.dll
+E:\Projects\NoSQLServer\Repository\bin\Release\Repository.pdb
+E:\Projects\NoSQLServer\Repository\bin\Release\Adapters.dll
+E:\Projects\NoSQLServer\Repository\bin\Release\NoSQLServer.dll
+E:\Projects\NoSQLServer\Repository\bin\Release\Adapters.pdb
+E:\Projects\NoSQLServer\Repository\bin\Release\NoSQLServer.pdb
+E:\Projects\NoSQLServer\Repository\obj\Release\Repository.csprojResolveAssemblyReference.cache
+E:\Projects\NoSQLServer\Repository\obj\Release\Repository.dll
+E:\Projects\NoSQLServer\Repository\obj\Release\Repository.pdb

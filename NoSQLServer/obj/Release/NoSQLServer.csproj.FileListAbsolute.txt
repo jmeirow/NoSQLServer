@@ -1,0 +1,7 @@
+E:\Projects\NoSQLServer\NoSQLServer\bin\Release\NoSQLServer.dll
+E:\Projects\NoSQLServer\NoSQLServer\bin\Release\NoSQLServer.pdb
+E:\Projects\NoSQLServer\NoSQLServer\bin\Release\MCTWF.ValidationResult.dll
+E:\Projects\NoSQLServer\NoSQLServer\bin\Release\MCTWF.ValidationResult.pdb
+E:\Projects\NoSQLServer\NoSQLServer\obj\Release\NoSQLServer.dll
+E:\Projects\NoSQLServer\NoSQLServer\obj\Release\NoSQLServer.pdb
+E:\Projects\NoSQLServer\NoSQLServer\obj\Release\NoSQLServer.csprojResolveAssemblyReference.cache

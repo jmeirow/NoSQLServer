@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4FD4EAD8-1F97-4CA0-95F0-B03486A66E2F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NoSQLServer</RootNamespace>
+    <AssemblyName>NoSQLServer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AggregateBase.cs" />
+    <Compile Include="AggregateEvent.cs" />
+    <Compile Include="AggregateEventType.cs" />
+    <Compile Include="AggregateInfo.cs" />
+    <Compile Include="AggregateStore.cs" />
+    <Compile Include="AggregateType.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="FetchCascadingUpdates.cs" />
+    <Compile Include="FetchIndexAggregateIDs.cs" />
+    <Compile Include="FetchUniqueKeyAggregateID.cs" />
+    <Compile Include="IAggregateBase.cs" />
+    <Compile Include="IndexData.cs" />
+    <Compile Include="NoSQLServerConnectionString.cs" />
+    <Compile Include="DeleteAggregateIndexes.cs" />
+    <Compile Include="DeleteAggregateUniqueKey.cs" />
+    <Compile Include="FetchAggregateByID.cs" />
+    <Compile Include="FetchAggregateByUniqueKey.cs" />
+    <Compile Include="FetchAggregateEventByID.cs" />
+    <Compile Include="FetchAggregateEventsByAggregateID.cs" />
+    <Compile Include="FetchAggregatesByIndex.cs" />
+    <Compile Include="InsertAggregate.cs" />
+    <Compile Include="InsertAggregateEvent.cs" />
+    <Compile Include="InsertAggregateEventType.cs" />
+    <Compile Include="InsertAggregateIndexes.cs" />
+    <Compile Include="InsertAggregateType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadRepository.cs" />
+    <Compile Include="RepositoryMethod.cs" />
+    <Compile Include="UpdateAggregate.cs" />
+    <Compile Include="WriteRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\vcroot\Component\C#\Mctwf\MCTWF.ValidationResult\MCTWF.ValidationResult.csproj">
+      <Project>{311b2f91-d8d9-4dc6-8b43-2c4dd3a54409}</Project>
+      <Name>MCTWF.ValidationResult</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,12 @@
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\Demo.exe.config
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\Demo.exe
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\Demo.pdb
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\NoSQLServer.dll
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\NoSQLServer.pdb
+E:\Projects\NoSQLServer\Git\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\Projects\NoSQLServer\Git\Demo\obj\Debug\Demo.exe
+E:\Projects\NoSQLServer\Git\Demo\obj\Debug\Demo.pdb
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\DBWriterService.dll
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\Repository.dll
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\DBWriterService.pdb
+E:\Projects\NoSQLServer\Git\Demo\bin\Debug\Repository.pdb
