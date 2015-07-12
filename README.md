@@ -25,34 +25,35 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 
 #### Topics
 
-*[Your First Class](#Your First Class)
-*[Where Does the Data Go?](#Where Does the Data Go?)
-*[Registering Your Class](#Registering Your Class)
-*[Your First Repository](#Your First Repository)
-*[Putting It All Together](#Putting It All Together)
-*[Adding a Field to an Existing Class](#Adding a Field to an Existing Class)
-*[Deleting a F](#Deleting a F)
-*[Changing the Name of an Existing Field](#Changing the Name of an Existing Field)
-*[What Can't I (Easily) Change?](#What Can't I (Easily) Change?)
-*[Singleton Objects and Lookup Classes](#Singleton Objects and Lookup Classes)
-*[The AggregateTypeInfo Object](#The AggregateTypeInfo Object)
-*[Nested Objects](#Nested Objects)
-*[Cascading Updates](#Cascading Updates)
-*[Understanding Unique Keys](#Understanding Unique Keys)
-*[Understanding Indexes](#Understanding Indexes)
-*[Creating Indexes](#Creating Indexes)
-*[Understanding Sharding](#Understanding Sharding)
-*[Creating a New Shard](#Creating a New Shard)
-*[Commands and Invokers](#Commands and Invokers)
-*[Single Writer Pattern](#Single Writer Pattern)
-*[Unit of Work Pattern](#Unit of Work Pattern)
-*[Aggregate Events](#Aggregate Events)
-*[Replaying Events in the Debugger](#Replaying Events in the Debugger)
-*[Maintaining a BI Database From NoSQLServer](#Maintaining a BI Database From NoSQLServer)
-*[Assemblies and References](#Assemblies and References)
-*[Browsing Object Data (like in Query Analyzer)](#Browsing Object Data (like in Query Analyzer))
-*[The Classes in This Demo App](#The Classes in This Demo App)
-*[Help Wanted](#Help Wanted)
+*[Your First Class](#Your First Class)<br/>
+*[Where Does the Data Go?](#Where Does the Data Go?)<br/>
+*[Registering Your Class](#Registering Your Class)<br/>
+*[Your First Repository](#Your First Repository)<br/>
+*[Putting It All Together](#Putting It All Together)<br/>
+*[Adding a Field to an Existing Class](#Adding a Field to an Existing Class)<br/>
+*[Deleting a F](#Deleting a F)<br/>
+*[Changing the Name of an Existing Field](#Changing the Name of an Existing Field)<br/>
+*[What Can't I (Easily) Change?](#What Can't I (Easily) Change?)<br/>
+*[Singleton Objects and Lookup Classes](#Singleton Objects and Lookup Classes)<br/>
+*[The AggregateTypeInfo Object](#The AggregateTypeInfo Object)<br/>
+*[Nested Objects](#Nested Objects)<br/>
+*[Cascading Updates](#Cascading Updates)<br/>
+*[Understanding Unique Keys](#Understanding Unique Keys)<br/>
+*[Understanding Indexes](#Understanding Indexes)<br/>
+*[Creating Indexes](#Creating Indexes)<br/>
+*[Understanding Sharding](#Understanding Sharding)<br/>
+*[Creating a New Shard](#Creating a New Shard)<br/>
+*[Commands and Invokers](#Commands and Invokers)<br/>
+*[Single Writer Pattern](#Single Writer Pattern)<br/>
+*[Unit of Work Pattern](#Unit of Work Pattern)<br/>
+*[Aggregate Events](#Aggregate Events)<br/>
+*[Replaying Events in the Debugger](#Replaying Events in the Debugger)<br/>
+*[Maintaining a BI Database From NoSQLServer](#Maintaining a BI Database From NoSQLServer)<br/>
+*[Assemblies and References](#Assemblies and References)<br/>
+*[Browsing Object Data (like in Query Analyzer)](#Browsing Object Data (like in Query Analyzer))<br/>
+*[The Classes in This Demo App](#The Classes in This Demo App)<br/>
+*[Help Wanted](#Help Wanted)<br/>
+
 
 
  
