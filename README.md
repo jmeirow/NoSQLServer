@@ -52,39 +52,38 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 *[Assemblies and References](#Assemblies and References)<br/>
 *[Browsing Object Data (like in Query Analyzer)](#Browsing Object Data (like in Query Analyzer))<br/>
 *[The Classes in This Demo App](#The Classes in This Demo App)<br/>
-*[Help Wanted](#Help Wanted)<br/>
+ 
 
 
 
  
-<a href="Your First Class">Your First Class</a>
-<a href="Where Does the Data Go?">Where Does the Data Go?</a>
-<a href="Registering Your Class">Registering Your Class</a>
-<a href="Your First Repository">Your First Repository</a>
-<a href="Putting It All Together">Putting It All Together</a>
-<a href="Adding a Field to an Existing Class">Adding a Field to an Existing Class</a>
-<a href="Deleting a Field From a Class">Deleting a Field From a Class</a>
-<a href="Changing the Name of an Existing Field">Changing the Name of an Existing Field</a>
-<a href="What Can't I (Easily) Change?">What Can't I (Easily) Change?</a>
-<a href="Singleton Objects and Lookup Classes">Singleton Objects and Lookup Classes</a>
-<a href="The AggregateTypeInfo Object">The AggregateTypeInfo Object</a>
-<a href="Nested Objects">Nested Objects</a>
-<a href="Cascading Updates">Cascading Updates</a>
-<a href="Understanding Unique Keys">Understanding Unique Keys</a>
-<a href="Understanding Indexes">Understanding Indexes</a>
-<a href="Creating Indexes">Creating Indexes</a>
-<a href="Understanding Sharding">Understanding Sharding</a>
-<a href="Creating a New Shard">Creating a New Shard</a>
-<a href="Commands and Invokers">Commands and Invokers</a>
-<a href="Single Writer Pattern">Single Writer Pattern</a>
-<a href="Unit of Work Pattern">Unit of Work Pattern</a>
-<a href="Aggregate Events">Aggregate Events</a>
-<a href="Replaying Events in the Debugger">Replaying Events in the Debugger</a>
-<a href="Maintaining a BI Database From NoSQLServer">Maintaining a BI Database From NoSQLServer</a>
-<a href="Assemblies and References](#Assemblies">Assemblies and References](#Assemblies</a>
-<a href="Browsing Object Data (like in Query Analyzer)">Browsing Object Data (like in Query Analyzer)</a>
-<a href="The Classes in This Demo App">The Classes in This Demo App</a>
-
+ <a href="Your First Class">Your First Class</a><br/>
+<a href="Where Does the Data Go?">Where Does the Data Go?</a><br/>
+<a href="Registering Your Class">Registering Your Class</a><br/>
+<a href="Your First Repository">Your First Repository</a><br/>
+<a href="Putting It All Together">Putting It All Together</a><br/>
+<a href="Adding a Field to an Existing Class">Adding a Field to an Existing Class</a><br/>
+<a href="Deleting a Field From a Class">Deleting a Field From a Class</a><br/>
+<a href="Changing the Name of an Existing Field">Changing the Name of an Existing Field</a><br/>
+<a href="What Can't I (Easily) Change?">What Can't I (Easily) Change?</a><br/>
+<a href="Singleton Objects and Lookup Classes">Singleton Objects and Lookup Classes</a><br/>
+<a href="The AggregateTypeInfo Object">The AggregateTypeInfo Object</a><br/>
+<a href="Nested Objects">Nested Objects</a><br/>
+<a href="Cascading Updates">Cascading Updates</a><br/>
+<a href="Understanding Unique Keys">Understanding Unique Keys</a><br/>
+<a href="Understanding Indexes">Understanding Indexes</a><br/>
+<a href="Creating Indexes">Creating Indexes</a><br/>
+<a href="Understanding Sharding">Understanding Sharding</a><br/>
+<a href="Creating a New Shard">Creating a New Shard</a><br/>
+<a href="Commands and Invokers">Commands and Invokers</a><br/>
+<a href="Single Writer Pattern">Single Writer Pattern</a><br/>
+<a href="Unit of Work Pattern">Unit of Work Pattern</a><br/>
+<a href="Aggregate Events">Aggregate Events</a><br/>
+<a href="Replaying Events in the Debugger">Replaying Events in the Debugger</a><br/>
+<a href="Maintaining a BI Database From NoSQLServer">Maintaining a BI Database From NoSQLServer</a><br/>
+<a href="Assemblies and References](#Assemblies">Assemblies and References](#Assemblies</a><br/>
+<a href="Browsing Object Data (like in Query Analyzer)">Browsing Object Data (like in Query Analyzer)</a><br/>
+<a href="The Classes in This Demo App">The Classes in This Demo App</a><br/>
 
 
 
