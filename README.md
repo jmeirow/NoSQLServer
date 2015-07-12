@@ -23,7 +23,7 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 *Write your classes in C# or any MS-CLR language
                  
 
-#### [Your First Class](https://github.com/jmeirow/NoSQLServer/edit/master/README.md/#yourfirstclass)
+[Your First Class](https://github.com/jmeirow/NoSQLServer/edit/master/README.md/#yourfirstclass)
 
 
 
