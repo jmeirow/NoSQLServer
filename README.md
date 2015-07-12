@@ -25,7 +25,7 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 
 #### Topics
 
-*[Your First Class](#Your First Class)<br/>
+*[Your First Class](#YourFirstClass)<br/>
 *[Where Does the Data Go?](#Where Does the Data Go?)<br/>
 *[Registering Your Class](#Registering Your Class)<br/>
 *[Your First Repository](#Your First Repository)<br/>
@@ -57,7 +57,7 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 
 
  
- <a href="Your First Class">Your First Class</a><br/>
+<a href="YourFirstClass">Your First Class</a><br/>
 <a href="Where Does the Data Go?">Where Does the Data Go?</a><br/>
 <a href="Registering Your Class">Registering Your Class</a><br/>
 <a href="Your First Repository">Your First Repository</a><br/>
