@@ -58,7 +58,7 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 
 ####<a name="Your First Class">Your First Class</a><br/>
 
-...C#
+...
 using System;
 using System.Collections.Generic;
 using System.Linq;
