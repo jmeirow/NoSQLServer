@@ -30,7 +30,12 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 *All data access is via stored procedures
 *Write your classes in C# or any MS-CLR language
 
-g
+g <br/>
+g <br/>
+
+g <br/>
+
+
 g
 g
 g
