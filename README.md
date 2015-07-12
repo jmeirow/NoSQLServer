@@ -56,34 +56,33 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 
 
 
- 
-#####<a name="Your First Class">Your First Class</a><br/>
-<a name="Where Does the Data Go?">Where Does the Data Go?</a><br/>
-<a name="Registering Your Class">Registering Your Class</a><br/>
-<a name="Your First Repository">Your First Repository</a><br/>
-<a name="Putting It All Together">Putting It All Together</a><br/>
-<a name="Adding a Field to an Existing Class">Adding a Field to an Existing Class</a><br/>
-<a name="Deleting a Field From a Class">Deleting a Field From a Class</a><br/>
-<a name="Changing the Name of an Existing Field">Changing the Name of an Existing Field</a><br/>
-<a name="What Can't I (Easily) Change?">What Can't I (Easily) Change?</a><br/>
-<a name="Singleton Objects and Lookup Classes">Singleton Objects and Lookup Classes</a><br/>
-<a name="The AggregateTypeInfo Object">The AggregateTypeInfo Object</a><br/>
-<a name="Nested Objects">Nested Objects</a><br/>
-<a name="Cascading Updates">Cascading Updates</a><br/>
-<a name="Understanding Unique Keys">Understanding Unique Keys</a><br/>
-<a name="Understanding Indexes">Understanding Indexes</a><br/>
-<a name="Creating Indexes">Creating Indexes</a><br/>
-<a name="Understanding Sharding">Understanding Sharding</a><br/>
-<a name="Creating a New Shard">Creating a New Shard</a><br/>
-<a name="Commands and Invokers">Commands and Invokers</a><br/>
-<a name="Single Writer Pattern">Single Writer Pattern</a><br/>
-<a name="Unit of Work Pattern">Unit of Work Pattern</a><br/>
-<a name="Aggregate Events">Aggregate Events</a><br/>
-<a name="Replaying Events in the Debugger">Replaying Events in the Debugger</a><br/>
-<a name="Maintaining a BI Database From NoSQLServer">Maintaining a BI Database From NoSQLServer</a><br/>
-<a name="Assemblies and References](#Assemblies">Assemblies and References](#Assemblies</a><br/>
-<a name="Browsing Object Data (like in Query Analyzer)">Browsing Object Data (like in Query Analyzer)</a><br/>
-<a name="The Classes in This Demo App">The Classes in This Demo App</a><br/>
+ ####<a name="Your First Class">Your First Class</a><br/>
+####<a name="Where Does the Data Go?">Where Does the Data Go?</a><br/>
+####<a name="Registering Your Class">Registering Your Class</a><br/>
+####<a name="Your First Repository">Your First Repository</a><br/>
+####<a name="Putting It All Together">Putting It All Together</a><br/>
+####<a name="Adding a Field to an Existing Class">Adding a Field to an Existing Class</a><br/>
+####<a name="Deleting a Field From a Class">Deleting a Field From a Class</a><br/>
+####<a name="Changing the Name of an Existing Field">Changing the Name of an Existing Field</a><br/>
+####<a name="What Can't I (Easily) Change?">What Can't I (Easily) Change?</a><br/>
+####<a name="Singleton Objects and Lookup Classes">Singleton Objects and Lookup Classes</a><br/>
+####<a name="The AggregateTypeInfo Object">The AggregateTypeInfo Object</a><br/>
+####<a name="Nested Objects">Nested Objects</a><br/>
+####<a name="Cascading Updates">Cascading Updates</a><br/>
+####<a name="Understanding Unique Keys">Understanding Unique Keys</a><br/>
+####<a name="Understanding Indexes">Understanding Indexes</a><br/>
+####<a name="Creating Indexes">Creating Indexes</a><br/>
+####<a name="Understanding Sharding">Understanding Sharding</a><br/>
+####<a name="Creating a New Shard">Creating a New Shard</a><br/>
+####<a name="Commands and Invokers">Commands and Invokers</a><br/>
+####<a name="Single Writer Pattern">Single Writer Pattern</a><br/>
+####<a name="Unit of Work Pattern">Unit of Work Pattern</a><br/>
+####<a name="Aggregate Events">Aggregate Events</a><br/>
+####<a name="Replaying Events in the Debugger">Replaying Events in the Debugger</a><br/>
+####<a name="Maintaining a BI Database From NoSQLServer">Maintaining a BI Database From NoSQLServer</a><br/>
+####<a name="Assemblies and References](#Assemblies">Assemblies and References](#Assemblies</a><br/>
+####<a name="Browsing Object Data (like in Query Analyzer)">Browsing Object Data (like in Query Analyzer)</a><br/>
+####<a name="The Classes in This Demo App">The Classes in This Demo App</a><br/>
 
 
 
