@@ -65,13 +65,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NoSQLServer;
+using NoSQLServer;                                                  // <-- reference to NoSQLServer
 
 
 namespace DomainObjects.People
 {
-    [Serializable]
-    public class Person : AggregateBase
+    [Serializable]                                                 // <-- Serializable
+    public class Person : AggregateBase                            // <-- Inherit from AggregateBase
     {
 
         private string _FirstName;
@@ -150,26 +150,21 @@ namespace DomainObjects.People
 
         public static string ToStringHeader()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.Append('\r').Append('\n');
-            sb.Append(string.Format(" {0,20}   {1,20}   {2,10}     {3,20}    {4,9}   {5,20}   {6,20}", "First Name", "Last Name", "Gender", "Birth Date", "SSN", "AggregateID", "AggregateTypeID"));
-            sb.Append('\r').Append('\n');
-            sb.Append(string.Format(" {0,20}   {1,20}   {2,10}     {3,20}    {4,9}   {5,20}   {6,20}", "==========", "===========", "=========", "==========", "========", "===========", "================"));
-            return sb.ToString();
+           // removed for brevity, see source code in Demo project.
 
         }
         public override string ToString()
         {
-            return string.Format(" {0,20}   {1,20}   {2,10}     {3,20}    {4,9}  {5,20}   {6,20}", FirstName, LastName, Gender, BirthDate.ToShortDateString(), SSN, AggregateID, AggregateTypeID);
+            // removed for brevity, see source code in Demo project.
         }
 
 
-        public override string GetUniqueKey()
+        public override string GetUniqueKey()                               // <-- required by baseclass
         {
             return SSN;
         }
 
-        public override Dictionary<string, string> GetIndexes()
+        public override Dictionary<string, string> GetIndexes()            // <-- required by baseclass
         {
             Dictionary<string, string> indexes = new Dictionary<string, string>();
             IndexData indexData = new IndexData();
