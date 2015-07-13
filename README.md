@@ -18,9 +18,9 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 
 ##100% Microsoft Technology
 
-*Data is stored in Microsoft SQL Server 
-*All data access is via stored procedures
-*Write your classes in C# or any MS-CLR language
+* Data is stored in Microsoft SQL Server<br/>
+* All data access is via stored procedures<br/>
+* Write your classes in C# or any MS-CLR language<br/>
 
 
 #### Topics
