@@ -31,8 +31,8 @@ No "CREATE/ALTER TABLE" scripts and no stored procedures mean simplified change 
 *[Your First Repository](#Your First Repository)<br/>
 *[Putting It All Together](#Putting It All Together)<br/>
 *[Adding a Field to an Existing Class](#Adding a Field to an Existing Class)<br/>
-*[Deleting a F](#Deleting a F)<br/>
-*[Changing the Name of an Existing Field](#Changing the Name of an Existing Field)<br/>
+*[Deleting a Field From an Existing Class](#Deleting a F)<br/>
+*[Changing the Name of a Field on an Existing Class](#Changing the Name of an Existing Field)<br/>
 *[What Can't I (Easily) Change?](#What Can't I (Easily) Change?)<br/>
 *[Singleton Objects and Lookup Classes](#Singleton Objects and Lookup Classes)<br/>
 *[The AggregateTypeInfo Object](#The AggregateTypeInfo Object)<br/>
@@ -188,8 +188,8 @@ namespace DomainObjects.People
 ####<a name="Your First Repository">Your First Repository</a><br/>
 ####<a name="Putting It All Together">Putting It All Together</a><br/>
 ####<a name="Adding a Field to an Existing Class">Adding a Field to an Existing Class</a><br/>
-####<a name="Deleting a Field From a Class">Deleting a Field From a Class</a><br/>
-####<a name="Changing the Name of an Existing Field">Changing the Name of an Existing Field</a><br/>
+####<a name="Deleting a Field From an Existing Class">Deleting a Field From a Class</a><br/>
+####<a name="Changing the Name of a Field on an Existing Class">Changing the Name of an Existing Field</a><br/>
 ####<a name="What Can't I (Easily) Change?">What Can't I (Easily) Change?</a><br/>
 ####<a name="Singleton Objects and Lookup Classes">Singleton Objects and Lookup Classes</a><br/>
 ####<a name="The AggregateTypeInfo Object">The AggregateTypeInfo Object</a><br/>
