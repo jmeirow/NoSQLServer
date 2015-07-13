@@ -5,7 +5,7 @@ NoSQLServer is a .NET library for building great .NET applications using a class
 
 ##Getting Started
 
-NoSQLServer gives you a powerful, object-based way to build dynamic applicaitons that enables a clean separation of concerns and gives you full control object composition without the need for tables and stored procedures for enjoyable, agile development and easy change-mangement/deployment.
+NoSQLServer gives you a powerful, object-based way to build dynamic applications that enables a clean separation of concerns and gives you full control object composition without the need for tables and stored procedures for enjoyable, agile development and easy change-mangement/deployment.
 
 ##Easier Development
 
